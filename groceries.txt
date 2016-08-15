@@ -6,3 +6,6 @@
 * soda
 * diet coke
 * sprite
+* cups
+* plates
+* more stuff
