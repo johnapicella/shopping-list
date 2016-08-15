@@ -1,3 +1,4 @@
 * eggs
 * oranges
 * apples
+* surge protector
