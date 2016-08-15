@@ -1,3 +1,5 @@
 * milk
 * bread
 * eggs
+* oranges
+* apples
